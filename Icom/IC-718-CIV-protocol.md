@@ -273,4 +273,3 @@ payload:
     0x01: RX
     0x02: RX_TX
 ```
-EOF && wc -c output/IC-718-CIV-protocol.md
