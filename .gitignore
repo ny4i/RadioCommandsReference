@@ -1,0 +1,3 @@
+# Source PDFs are inputs (fed to Perplexity to generate the markdown references); not tracked.
+*.pdf
+*.PDF
