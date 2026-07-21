@@ -1,3 +1,13 @@
 # Source PDFs are inputs (fed to Perplexity to generate the markdown references); not tracked.
 *.pdf
 *.PDF
+
+# Generated, unverified extractor output (promoted into Icom/ only after verification).
+output/
+manifest.json
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
